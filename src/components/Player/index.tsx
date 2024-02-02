@@ -25,7 +25,7 @@ export function Player() {
           <button type="button">
             <img src="/shuffle.svg" alt="Embaralhar" />
           </button>
-
+  
           <button type="button">
             <img src="/play-previous.svg" alt="Tocar anterior" />
           </button>
